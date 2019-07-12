@@ -1,0 +1,15 @@
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190712-42380-1fub6ca.rb extconf.rb
+creating Makefile
+
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20190712-42380-j326o2

@@ -1,0 +1,15 @@
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190711-18099-1dwdyp9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/itn.govardhan.p/demo-blog/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190711-18099-ir15eg/bootsnap
